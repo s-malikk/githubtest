@@ -1,5 +1,5 @@
 # githubtest
-# pracice code
+# practice code
 
 num1 = input("Enter an integer: ")
 num2 = input(//"Enter another integer: ")
